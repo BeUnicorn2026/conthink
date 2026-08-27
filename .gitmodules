@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/BeUnicorn2026/front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/BeUnicorn2026/back.git

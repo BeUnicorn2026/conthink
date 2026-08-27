@@ -32,7 +32,7 @@ ConThink는 AI가 회의의 결론을 대신 정하는 서비스가 아닙니다
 - **회의 기록 보관** — 회의 종료 후 전체 발언, 개인화 해설과 맥락 트리를 다시 확인할 수 있습니다.
 
 ## 아키텍처
-![Uploading image.png…]()
+<img width="1572" height="760" alt="image" src="https://github.com/user-attachments/assets/b6e9d752-7157-48de-82d3-65b4bc765d56" />
 
 ```
 참여자별 음성 입력
